@@ -1,0 +1,12 @@
+# Environment Variables Template
+# Copy this file to .env.local and fill in your Supabase credentials
+
+# Supabase Configuration
+NEXT_PUBLIC_SUPABASE_URL=your-project-url.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+
+# Optional: For server-side operations
+# SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+
+# App Configuration
+NEXT_PUBLIC_APP_URL=http://localhost:3000
