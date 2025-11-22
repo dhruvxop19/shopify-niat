@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/Button'
 import { ROUTES, APP_NAME } from '@/lib/constants'
 import { formatPrice } from '@/lib/utils'
 import { createClient } from '@/lib/supabase/client'
-import { ArrowLeft, Check, CreditCard, Truck, ShieldCheck } from 'lucide-react'
+import { ArrowLeft, Check, CreditCard, Truck, ShieldCheck, Package } from 'lucide-react'
 import Link from 'next/link'
 import Image from 'next/image'
 
